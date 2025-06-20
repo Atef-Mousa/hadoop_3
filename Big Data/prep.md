@@ -1,0 +1,34 @@
+# ITI Data Prep
+
+- RoadMap page 17
+- Design if HDFS page 43
+- File Read dataflow anatomy page 69
+- HDFS Architecture page 46 
+- HDFS block placement policy page 71
+- HDFS Command line page 50
+- Challenges of HDFS : sfp , latency page 44
+- Map reduce
+- Group by count (weather) page 24 
+- Merge sort page 33
+- YARN
+- Yarn Design 84
+- Yarn anatomy page 80 - 186
+- Yarn scheduling and preemption 86
+- Hive
+- Components page 478
+- Managed tables vs external tables page page 490
+- Partitions , buckets page 491
+- File formats page 496 
+- Csv 
+- Avro 
+- Parquet
+- Orc
+- Udf,udaf page 511
+- Spark 
+- Rdd page 556
+- Transformation vs action page 557
+- Driver , executor page 566
+- Spark masters page 570
+- Spark on yarn execution page 572
+- Client vs cluster mode page 572
+- Dag example page 568
